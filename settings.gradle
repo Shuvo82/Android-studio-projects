@@ -1,0 +1,2 @@
+rootProject.name='Ucam'
+include ':app'

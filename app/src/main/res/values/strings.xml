@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ucam</string>
+    <string name="alertdialog_title">Ucam</string>
+    <string name="alertdialog">Do you wat to exit?</string>
+    <string name="name"> My name is Shuvo.</string>
+</resources>
